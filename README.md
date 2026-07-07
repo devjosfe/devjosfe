@@ -1,14 +1,14 @@
-# Hi, I'm Jose Fernando 👋
+# Hi, I'm Jose Fernando
 
 I'm a Full Stack Developer based in Bogotá, Colombia, with 5 years of experience building scalable web applications, backend services, and user-focused products.
 
-I enjoy working across the entire stack — from designing APIs and database architectures to creating clean and intuitive frontend experiences. I have worked remotely with international teams across the US, Europe, and Latin America, collaborating on products used by thousands of users.
+I enjoy working across the entire stack, from designing APIs and database architectures to creating clean and intuitive frontend experiences. I have worked remotely with international teams across the US, Europe, and Latin America, collaborating on products used by thousands of users.
 
-## 💻 Experience
+## Experience
 
 ### Full Stack Developer — Take Blip
-📍 Belo Horizonte, Brazil (Remote)  
-🗓 Aug 2024 - Jan 2026
+ Belo Horizonte, Brazil (Remote)  
+ Aug 2024 - Jan 2026
 
 - Worked on building and improving communication platforms and customer experience solutions.
 - Developed full stack features, from backend services to frontend interfaces.
@@ -17,8 +17,8 @@ I enjoy working across the entire stack — from designing APIs and database arc
 ---
 
 ### Full Stack Developer — ANDRENA
-📍 New York, US (Remote)  
-🗓 Aug 2023 - May 2024
+ New York, US (Remote)  
+ Aug 2023 - May 2024
 
 - Built and maintained web applications with focus on performance, reliability, and user experience.
 - Developed backend APIs and frontend components.
@@ -27,8 +27,8 @@ I enjoy working across the entire stack — from designing APIs and database arc
 ---
 
 ### Full Stack Developer — Booking.com
-📍 Amsterdam, Netherlands (Remote)  
-🗓 Jun 2021 - Jan 2023
+ Amsterdam, Netherlands (Remote)  
+ Jun 2021 - Jan 2023
 
 - Developed features for a large-scale travel technology platform.
 - Worked with complex systems, APIs, and production-level applications.
@@ -36,7 +36,7 @@ I enjoy working across the entire stack — from designing APIs and database arc
 
 ---
 
-## 🎓 Education
+## Education
 
 **Universidad Nacional de Colombia**  
 Bachelor's Degree  
@@ -44,7 +44,7 @@ Bachelor's Degree
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 ### Frontend
 - JavaScript / TypeScript
@@ -74,19 +74,19 @@ Bachelor's Degree
 
 ---
 
-## 🌎 About Me
+## About Me
 
-- Based in Bogotá, Colombia 🇨🇴
-- Experienced working with remote teams worldwide 🌎
+- Based in Bogotá, Colombia
+- Experienced working with remote teams worldwide
 - Passionate about building reliable software and solving real-world problems
 - Always learning new technologies and improving engineering practices
 
 ---
 
-## 📫 Contact
+## Contact
 
 Feel free to connect with me:
 
-- Email: [devjosfe@gmail.com]
+- Email: devjosfe@gmail.com
 
 Thanks for visiting my profile!
