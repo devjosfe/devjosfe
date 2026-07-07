@@ -1,4 +1,4 @@
-# Hi, I'm [Jose Fernando] 👋
+# Hi, I'm Jose Fernando 👋
 
 I'm a Full Stack Developer based in Bogotá, Colombia, with 5 years of experience building scalable web applications, backend services, and user-focused products.
 
