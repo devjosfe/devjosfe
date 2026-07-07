@@ -20,7 +20,6 @@ I'm a Full Stack Developer based in Colombia, with 8 years of experience buildin
 
 ## About Me
 
-- Based in Bogotá, Colombia
 - Experienced working with remote teams worldwide
 - Passionate about building reliable software and solving real-world problems
 - Always learning new technologies and improving engineering practices
@@ -32,5 +31,3 @@ I'm a Full Stack Developer based in Colombia, with 8 years of experience buildin
 Feel free to connect with me:
 
 - Email: devjosfe@gmail.com
-
-Thanks for visiting my profile!
