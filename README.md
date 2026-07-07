@@ -2,12 +2,6 @@
 
 I'm a Full Stack Developer based in Colombia, with 8 years of experience building scalable web applications, backend services, and user focused products.
 
-## Education
-
-**Universidad Nacional de Colombia**  
-Bachelor's Degree  
-🗓 2016 - 2020
-
 ## Technologies
 
 ### Frontend
