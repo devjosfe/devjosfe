@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer based in Bogotá, Colombia, with 5 years of experience building scalable web applications, backend services, and user-focused products.
 
-I enjoy working across the entire stack, from designing APIs and database architectures to creating clean and intuitive frontend experiences. I have worked remotely with international teams across the US, Europe, and Latin America, collaborating on products used by thousands of users.
+I enjoy working across the entire stack, from designing APIs and database architectures to creating clean and intuitive frontend experiences. I have worked remotely with international teams across the US, Europe, and so on, collaborating on products used by thousands of users.
 
 ## Experience
 
