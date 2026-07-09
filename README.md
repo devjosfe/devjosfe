@@ -31,3 +31,4 @@ I'm a Full Stack Developer based in Colombia, with 8 years of experience buildin
 Feel free to connect with me:
 
 - Email: devjosfe@gmail.com
+- Visite https://jose-portfolio-8gf1.vercel.app/
