@@ -8,7 +8,7 @@ I'm a Full Stack Developer based in Colombia, with 8 years of experience buildin
  React.js, Next.js, Angular, Vue.js, Redux, Tailwind CSS, Bootstrap, Material UI
 
 ### Backend
- Node.js, Express.js, NestJS, Django, Ruby on Rails, RESTful APIs, GraphQL
+ Node.js, Express.js, NestJS, Go, Django, Ruby on Rails, RESTful APIs, GraphQL
 
 ### Databases
  PostgreSQL, MySQL, MongoDB, Redis
